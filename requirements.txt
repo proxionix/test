@@ -1,0 +1,12 @@
+Flask==2.3.3
+Flask-Mail==0.9.1
+Flask-SocketIO==5.3.4
+python-socketio==5.9.0
+python-engineio==4.5.1
+openpyxl==3.1.2
+pandas==2.0.3
+schedule==1.2.0
+Werkzeug==2.3.7
+gunicorn==21.2.0
+eventlet==0.33.3
+python-dotenv==1.0.0
